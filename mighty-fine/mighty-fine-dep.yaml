@@ -19,7 +19,7 @@ spec:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: metrics-demo
+      - name: metrics-demos
         image: quay.io/brice/metrics-demo:v4-subscription-service
         command:
         - ./mighty-fine
