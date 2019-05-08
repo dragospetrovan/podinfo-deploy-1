@@ -19,7 +19,7 @@ spec:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: mighty-fine
+      - name: repository/brice/metrics-demo
         image: quay.io/repository/brice/metrics-demo:master
         command:
         - ./mighty-fine
