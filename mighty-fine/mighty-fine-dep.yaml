@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: metrics-demo
-        image: quay.io/repository/brice/metrics-demo:latest
+        image: quay.io/repository/brice/metrics-demo
         command:
         - ./mighty-fine
         - --port=3000
