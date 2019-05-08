@@ -1,0 +1,1 @@
+{"jobID":"85fb54ef-cc3e-ff0f-a441-f08a9e1628ef","spec":{"type":"policy","cause":{"Message":"","User":"Dragos Petrovan \u003cdragos.petrovan@gmail.com\u003e"},"spec":{"dev:deployment/mighty-fine":{"add":{"tag.metrics-demo":"glob:v4-subscription-service"},"remove":null}}},"result":null}
