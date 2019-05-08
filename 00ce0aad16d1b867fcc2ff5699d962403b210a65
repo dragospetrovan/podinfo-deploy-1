@@ -1,0 +1,1 @@
+{"jobID":"760920c5-27fd-bed3-b282-12ab4b396626","spec":{"type":"policy","cause":{"Message":"","User":"Dragos Petrovan \u003cdragos.petrovan@gmail.com\u003e"},"spec":{"dev:deployment/mighty-fine":{"add":null,"remove":{"automated":"true"}}}},"result":null}
