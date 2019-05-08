@@ -19,7 +19,7 @@ spec:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: testd
+      - name: metrics-demo
         image: quay.io/repository/brice/metrics-demo:latest
         command:
         - ./test
