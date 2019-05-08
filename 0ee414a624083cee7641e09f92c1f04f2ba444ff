@@ -1,0 +1,1 @@
+{"jobID":"ab334d43-bac3-5452-db8d-0f0763fe2066","spec":{"type":"policy","cause":{"Message":"testing ","User":"Dragos Petrovan \u003cdragos.petrovan@gmail.com\u003e"},"spec":{"dev:deployment/mighty-fine":{"add":null,"remove":{"locked":"true","locked_msg":"\"testing \"","locked_user":"Dragos Petrovan \u003cdragos.petrovan@gmail.com\u003e"}}}},"result":null}
