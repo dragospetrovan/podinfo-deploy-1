@@ -20,7 +20,6 @@ spec:
     spec:
       containers:
       - name: metrics-demo
-<<<<<<< HEAD
         image: quay.io/brice/metrics-demo:v4-subscription-service
         command:
         - ./mighty-fine
