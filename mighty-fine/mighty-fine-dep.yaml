@@ -19,8 +19,8 @@ spec:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: metrics-demos
-        image: quay.io/brice/metrics-demo:master
+      - name: metrics-demo
+        image: quay.io/brice/metrics-demo:v4-subscription-service
         command:
         - ./mighty-fine
         - --port=3000
