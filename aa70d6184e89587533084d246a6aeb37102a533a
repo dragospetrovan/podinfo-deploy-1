@@ -1,0 +1,1 @@
+{"jobID":"2cb646dc-c0bc-f669-1f50-7cefc1c743b3","spec":{"type":"policy","cause":{"Message":"","User":"Dragos Petrovan \u003cdragos.petrovan@gmail.com\u003e"},"spec":{"dev:deployment/podinfo":{"add":{"automated":"true"},"remove":null}}},"result":null}
