@@ -8,6 +8,7 @@ metadata:
     flux.weave.works/locked_user: Dragos Petrovan <dragos.petrovan@gmail.com>
     flux.weave.works/locked: 'true'
     flux.weave.works/locked_msg: "\"I'm desperate \""
+    flux.weave.works/tag.metrics-demo: glob:v4-subscription-service
 spec:
   replicas: 1
   selector:
