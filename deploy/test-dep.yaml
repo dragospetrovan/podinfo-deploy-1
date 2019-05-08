@@ -19,8 +19,8 @@ spec:
         prometheus.io/scrape: 'true'
     spec:
       containers:
-      - name: metrics-demod
-        image: quay.io/repository/brice/metrics-demo:latest
+      - name: metrics-demo
+        image: quay.io/repository/brice/metrics-demo:v4-subscription-service
         command:
         - ./test
         - --port=3000
