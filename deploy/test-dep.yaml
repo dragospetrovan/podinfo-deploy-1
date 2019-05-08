@@ -20,7 +20,7 @@ spec:
     spec:
       containers:
       - name: testd
-        image: quay.io/repository/brice/metrics-demo:v4-subscription-service
+        image: quay.io/repository/brice/metrics-demo:latest
         command:
         - ./test
         - --port=3000
